@@ -1,0 +1,2 @@
+RedRocket.VisualStudioTemplates
+===============================
